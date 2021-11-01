@@ -8,8 +8,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-link-thin.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.pngaaa.com/708/1947708-small.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://image.pngaaa.com/708/1947708-small.png" />][linkedin]
 
 <br>
 
