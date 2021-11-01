@@ -9,7 +9,7 @@
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://image.pngaaa.com/708/1947708-small.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br>
 
