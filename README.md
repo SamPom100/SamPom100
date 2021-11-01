@@ -1,6 +1,6 @@
 # Hi, my name is Sam Pomerantz
 
-## I'm a Junior at Boston University pursuing a dyak degree in Computer Science and Finance
+## I'm a Junior at Boston University pursuing a dual degree in Computer Science and Finance
 
 - 🥝 Check out my website https://sampomerantz.me/
 - 👓 Maintaining my Unusual Volume Detector (https://unusualvolume.info/)
