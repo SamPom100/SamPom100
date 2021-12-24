@@ -1,6 +1,6 @@
 # Hi, my name is Sam Pomerantz
 
-## About Me
+## About Me:
 I'm a Junior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
 
 - 🥝 Check out my website https://sampomerantz.me/
@@ -8,7 +8,7 @@ I'm a Junior at Boston University dual majoring in Computer Science and Finance.
 - 🌱 Currently learning Swift
 
 
-## Profile Stats
+## Profile Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sampom100&show_icons=true&show_icons=true&theme=dark" height="150"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampom100&layout=compact&theme=dark" height="150"></img>
 
