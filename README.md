@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, my name is Sam Pomerantz
+# <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30px"> Hi, my name is Sam Pomerantz
 
 ## About Me:
 I'm a Junior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
