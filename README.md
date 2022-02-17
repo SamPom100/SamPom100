@@ -1,6 +1,18 @@
-# <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30px"> Hi, my name is Sam Pomerantz
+```
+ .d8888b.                              8888888b.                                                          888             
+d88P  Y88b                             888   Y88b                                                         888             
+Y88b.                                  888    888                                                         888             
+ "Y888b.    8888b.  88888b.d88b.       888   d88P .d88b.  88888b.d88b.   .d88b.  888d888 8888b.  88888b.  888888 88888888 
+    "Y88b.     "88b 888 "888 "88b      8888888P" d88""88b 888 "888 "88b d8P  Y8b 888P"      "88b 888 "88b 888       d88P  
+      "888 .d888888 888  888  888      888       888  888 888  888  888 88888888 888    .d888888 888  888 888      d88P   
+Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.     888    888  888 888  888 Y88b.   d88P    
+ "Y8888P"  "Y888888 888  888  888      888        "Y88P"  888  888  888  "Y8888  888    "Y888888 888  888  "Y888 88888888 
+ ```
+                                                                                                                          
+                                                                                                                          
 
-## About Me:
+
+## <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30px"> About Me:
 I'm a Junior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
 
 - 🥝 Check out my website https://sampomerantz.me/
