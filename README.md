@@ -12,7 +12,7 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
                                                                                                                           
 
 
-## <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30px"> About Me:
+## 👋 About Me:
 I'm a Junior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
 
 - 🥝 Check out my website https://sampomerantz.me/
