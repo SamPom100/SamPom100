@@ -13,7 +13,7 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 
 ## 👋 About Me:
-I'm a Junior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
+I'm a Senior at Boston University dual majoring in Computer Science and Finance. I'm passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
 
 - 🥝 Check out my website https://sampomerantz.me/
 - 👓 Maintaining my Unusual Volume Detector (https://unusualvolume.info/)
