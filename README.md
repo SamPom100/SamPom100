@@ -14,8 +14,11 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 ## 👋 About Me:
 Software Engineer @ AWS in New York. 
+
 Prev. CS + Finance @ Boston University.
+
 Passionate about developing tools that better the lives of others, especially when it comes interactions with complex data and financial markets.
+
 
 - 🥝 Portfolio: (https://sampomerantz.me/)
 - 👓 Unusual Volume Detector (https://unusualvolume.info/)
