@@ -21,6 +21,8 @@ Engineer @ AWS in NYC
 ## Profile Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sampom100&show_icons=true&show_icons=true&theme=dark" height="150"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampom100&layout=compact&theme=dark&hide=css" height="150"></img>
+<br></br>
+![](https://komarev.com/ghpvc/?username=sampom100)
 
 
 ## Connect with me:
