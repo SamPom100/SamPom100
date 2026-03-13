@@ -13,8 +13,6 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 
 ## 👋 About Me:
-Engineer @ AWS in NYC
-
 🥝 Portfolio: (https://sampomerantz.me/)
 
 
