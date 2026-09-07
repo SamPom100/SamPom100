@@ -19,8 +19,7 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 ## Profile Stats:
 <img src="./profile/stats.svg" height="150"></img>
 <img src="./profile/top-langs.svg" height="150"></img>
-<br></br>
-<img src="https://streak-stats.demolab.com?user=sampom100&theme=dark&hide_current_streak=true&hide_longest_streak=true" height="150"></img>
+<img src="https://streak-stats.demolab.com?user=sampom100&theme=dark&hide_current_streak=true&hide_longest_streak=true&card_width=200" height="150"></img>
 <br></br>
 ![](https://komarev.com/ghpvc/?username=sampom100)
 
