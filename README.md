@@ -17,8 +17,8 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 
 ## Profile Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=sampom100&show_icons=true&show_icons=true&theme=dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampom100&layout=compact&theme=dark&hide=css" height="150"></img>
+<img src="./profile/stats.svg" height="150"></img>
+<img src="./profile/top-langs.svg" height="150"></img>
 <br></br>
 ![](https://komarev.com/ghpvc/?username=sampom100)
 
