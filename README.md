@@ -13,7 +13,7 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 
 ## 👋 About Me:
-I'm **Sam Pomerantz**, a Software Engineer at AWS based in NYC & Chicago.
+I'm **Sam Pomerantz**, a Software Engineer at AWS based in New York City.
 
 🥝 **Personal site:** [sampomerantz.me](https://sampomerantz.me/)
 
