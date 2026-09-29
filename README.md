@@ -13,7 +13,9 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 
 ## 👋 About Me:
-🥝 Portfolio: (https://sampomerantz.me/)
+I'm **Sam Pomerantz**, a Software Engineer at AWS based in New York City.
+
+🥝 **Personal site:** [sampomerantz.me](https://sampomerantz.me/)
 
 
 ## Profile Stats:
@@ -26,12 +28,12 @@ Y88b  d88P 888  888 888  888  888      888       Y88..88P 888  888  888 Y8b.    
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Sam Pomerantz Website" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
+[<img align="left" alt="Sam Pomerantz LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-
-
+<br>
 <br>
 
 [website]: https://sampomerantz.me/
 [linkedin]: https://www.linkedin.com/in/pomerantzsam/
+
